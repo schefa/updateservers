@@ -1,0 +1,9 @@
+.icon-lhind {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lufthansa_Logo_%28Crane%29.svg/1026px-Lufthansa_Logo_%28Crane%29.svg.png");
+    background-size: 50px;
+    width: 50px;
+    background-repeat: no-repeat;
+    height: 50px;
+    display: block;
+    float: left;
+}
